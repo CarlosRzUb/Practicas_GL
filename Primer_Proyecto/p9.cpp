@@ -40,8 +40,8 @@ const int NUM_METEORITOS = 10;
 GLuint texID_suelo;
 GLuint texID_meteorito;
 GLuint texID_cielo;
-
 GLuint texID_nave;
+
 bool cabina_on = true;
 
 struct SubRoca {
