@@ -4,7 +4,7 @@
 using namespace std;
 using namespace cb;
 
-#define PROYECTO "P9 - Fase Base: Practica 6 Completa"
+#define PROYECTO "P9 - Simulador de Vuelo"
 
 bool fullscreen = false;
 
